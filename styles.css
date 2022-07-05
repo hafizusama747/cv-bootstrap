@@ -15,10 +15,7 @@
     margin-left: 20px;
     border-radius: 50%;
 }
-#name{
-    margin-top: 20px;
-    letter-spacing: 0.3rem;
-}
+
 
 #desc{  
     margin-top: 10px;
@@ -104,4 +101,9 @@
     
     input:checked + label {
       background: grey;
+    }
+
+   .name{
+      margin-top: 200px;
+      letter-spacing: 0.3rem;
     }
